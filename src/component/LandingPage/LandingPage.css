@@ -1,0 +1,29 @@
+.landing-page {
+  display: flex;
+  flex-flow: row nowrap;
+  justify-content: space-evenly;
+  border: 2px dotted pink;
+}
+
+.i {
+  border: 1px solid red;
+  order: 1;
+  height: 50px;
+  width: 50px;
+  text-align: center;
+}
+
+.heart {
+  border: 1px solid green;
+  order: 2;
+  height: 50px;
+  width: 50px;
+}
+
+.u {
+  border: 1px solid blue;
+  order: 3;
+  height: 50px;
+  width: 50px;
+  text-align: center;
+}
