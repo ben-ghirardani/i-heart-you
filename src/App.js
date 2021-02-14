@@ -4,7 +4,11 @@ import Reasons from './component/Reasons/Reasons.jsx';
 
 function App() {
   return (
-    <div>
+    <div onClick={
+      () => {
+        console.log("page was clicked")
+      }
+    }>
       <LandingPage/>
       <Reasons/>
     </div>
