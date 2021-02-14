@@ -21,7 +21,7 @@ function LandingPage(props) {
 
       />
 
-      <p className="u" >u...</p>
+      <p className="u" >u</p>
 
     </div>
   )
