@@ -12,16 +12,16 @@ function App() {
         fontSize: "250px", lineHeight: "250px", text: ""
       },
       {
-        fontSize: "100px", lineHeight: "100px", text: "...because you're beautiful"
+        fontSize: "100px", lineHeight: "100px", text: "because you're beautiful"
       },
       {
-        fontSize: "100px", lineHeight: "100px", text: "...because you protect all creatures"
+        fontSize: "100px", lineHeight: "100px", text: "because you protect all creatures"
       },
       {
         fontSize: "100px", lineHeight: "100px", text: "...because you make me smile and laugh every day"
       },
       {
-        fontSize: "100px", lineHeight: "100px", text: "...becuase you have a great sense of humour"
+        fontSize: "100px", lineHeight: "100px", text: "...because you have a great sense of humour"
       },
       {
         fontSize: "100px", lineHeight: "100px", text: "...because you're intelligent"
@@ -39,7 +39,7 @@ function App() {
         fontSize: "100px", lineHeight: "100px", text: "...because we go together like coffee and keto bars!"
       },
       {
-        fontSize: "100px", lineHeight: "100px", text: "...becasue you are a great cook"
+        fontSize: "100px", lineHeight: "100px", text: "...because you are a great cook"
       }
     ]
   );
